@@ -28,3 +28,7 @@ for (let i = 9; i > 0; i--) {
   piramide += "\n";
 }
 console.log(piramide);
+
+//function
+avengers.forEach((element, i) => {console.log(element);
+console.log(i);})
